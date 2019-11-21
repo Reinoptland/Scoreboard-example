@@ -1,3 +1,3 @@
 # Scoreboard example:
 
-Check todolist.md for the steps we implemented
+Check todoLists.md for the steps we implemented
